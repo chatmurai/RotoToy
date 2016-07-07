@@ -1,0 +1,56 @@
+{"data":[
+      {
+        "name": "Radio Bébé",
+        "url": "http://live1.jupinfo.fr:8000/radiobebe",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "Abracadabra",
+        "url": "http://ftp.abracadabraradio.com:8000/;?.mp3%27;",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "Radio Doudou",
+        "url": "http://195.154.185.139:80/radio/11565/stream/22961",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "Radio Ouistiti",
+        "url": "http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "Bide et Musique",
+        "url": "http://relay2.bide-et-musique.com:9100/;?.mp3",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "Radio Swiss Jazz",
+        "url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "Radio Swiss Classic",
+        "url": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "BBC 2",
+        "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p",
+        "icon": "",
+        "meta": ""
+      },
+      {
+        "name": "BBC 4",
+        "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
+        "icon": "",
+        "meta": ""
+      }
+]}
