@@ -1,8 +1,4 @@
-
 # RotoToy
-RotoToy is toy for children made from an old dial phone. It uses a Raspberry Pi to connect to webradios or play audio files, depending on the numbers dialed.
-## RotoToy
-
 RotoToy is toy for children made from an old dial phone. It uses a Raspberry Pi to connect to webradios or play audio files, depending on the numbers dialed.
 
 ## Dependencies
